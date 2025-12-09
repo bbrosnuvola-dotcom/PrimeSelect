@@ -68,7 +68,7 @@ export const ALL_PRODUCTS: Product[] = [
     categoryId: 'home',
     title: 'Klighten Applique da Parete Interno LED',
     description: 'Klighten Applique da Parete Interno LED, 24W, 1960LM, Lampada Decorative Mordern, per Camera da Letto, Soggiorno, Corridoio, 110-240V, Bianco Neutro 4000K, Bianco.',
-    price: 54,99,
+    price: 54.99,
     rating: 4.5,
     reviewCount: 520,
     imageUrl: 'https://m.media-amazon.com/images/I/51ow0ZYT-AL._AC_SX679_.jpg',
