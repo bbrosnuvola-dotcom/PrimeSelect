@@ -202,8 +202,8 @@ export const ALL_PRODUCTS: Product[] = [
     isBestSeller: false,
   },
   {
-    id: 'sport-3',
-    categoryId: 'sport',
+    id: 'sports-3',
+    categoryId: 'sports',
     title: 'BLUEGORILLA Magnesite liquida',
     description: 'BLUEGORILLA Magnesite liquida, Liquid Chalk Crossfit Ultra Secco! 250ML .Migliora la Tua Presa! Magnesite Arrampicata, Sollevamento Pesi, Padel, Palestra,Ginnastica Artistica.',
     price: 16.99,
