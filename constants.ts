@@ -129,6 +129,20 @@ export const ALL_PRODUCTS: Product[] = [
     isPrime: true,
     isBestSeller: false,
   },
+  {
+    id: 'home-4',
+    categoryId: 'home',
+    title: 'Amazon Echo Show 11',
+    description: 'Amazon Echo Show 11 (ultimo modello) - Schermo Full HD da 11" con colori vibranti, area di visione più ampia, audio spaziale e Alexa, Grafite',
+    price: 211.99,
+	  originalPrice: 239.99,
+    rating: 4.0,
+    reviewCount: 632,
+    imageUrl: 'https://m.media-amazon.com/images/I/61rPQD2+EEL._AC_SY741_.jpg',
+    affiliateLink: 'https://amzn.to/497gyyy',
+    isPrime: true,
+    isBestSeller: true,
+  },
 
   // --- CATEGORIA FASHION ---
   {
@@ -212,6 +226,19 @@ export const ALL_PRODUCTS: Product[] = [
     imageUrl: 'https://m.media-amazon.com/images/I/617D5aaXeLL._AC_SL1200_.jpg',
     affiliateLink: 'https://amzn.to/4q4ry6I',
     isPrime: false,
+    isBestSeller: false,
+  },
+  {
+    id: 'sports-4',
+    categoryId: 'sports',
+    title: 'Merrell Speed Remix GTX',
+    description: 'Merrell Speed Remix GTX, Scarpe da Passeggio Uomo',
+    price: 130.04,
+    rating: 4.5,
+    reviewCount: 160,
+    imageUrl: 'https://m.media-amazon.com/images/I/61cW4qE4r7L._AC_SY575_.jpg',
+    affiliateLink: 'https://amzn.to/4pPNd2R',
+    isPrime: true,
     isBestSeller: false,
   },
 ];
