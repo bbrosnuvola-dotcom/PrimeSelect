@@ -143,6 +143,32 @@ export const ALL_PRODUCTS: Product[] = [
     isPrime: true,
     isBestSeller: true,
   },
+  {
+    id: 'home-5',
+    categoryId: 'home',
+    title: 'Curlsmith Curl Quenching',
+    description: 'Curlsmith Curl Quenching Conditioning Wash - Co-wash detergente, co-wash senza solfati, per tutti i tipi di ricci, vegano e cruelty free (32 oz)',
+    price: 53.00,
+	  rating: 4.5,
+    reviewCount: 304,
+    imageUrl: 'https://m.media-amazon.com/images/I/61s317TT5eL._AC_SX522_.jpg',
+    affiliateLink: 'https://amzn.to/3YCi72R',
+    isPrime: true,
+    isBestSeller: false,
+  },
+  {
+    id: 'home-6',
+    categoryId: 'home',
+    title: 'Set di 6 bustine da tè riutilizzabili in tessuto',
+    description: 'Earthtopia CoffeeCloth - Set di 6 bustine da tè riutilizzabili in tessuto, 100% cotone biologico, filtro da tè, filtro permanente, filtro riutilizzabile (5 piccoli, 1 grande).',
+    price: 12.95,
+    rating: 4.4,
+    reviewCount: 59,
+    imageUrl: 'https://m.media-amazon.com/images/I/616QweUHlaL._AC_SL1000_.jpg',
+    affiliateLink: 'https://amzn.to/3YAAfdl',
+    isPrime: false,
+    isBestSeller: false,
+  },
 
   // --- CATEGORIA FASHION ---
   {
