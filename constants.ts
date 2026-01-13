@@ -212,6 +212,19 @@ export const ALL_PRODUCTS: Product[] = [
     isPrime: false,
     isBestSeller: false,
   },
+  {
+    id: 'fashion-4',
+    categoryId: 'fashion',
+    title: 'GeGekoko Cardigan da Donna con Cappuccio',
+    description: 'GeGekoko Cardigan da Donna con Cappuccio, Manica Lunga, Cardigan in Maglia Grossa, Aperto sul Davanti, Maglione Casual Autunnale e Invernale con Tasche',
+    price: 48.98,
+    rating: 4.2,
+    reviewCount: 893,
+    imageUrl: 'https://m.media-amazon.com/images/I/61v6XIYinJL._AC_SY606_.jpg',
+    affiliateLink: 'https://amzn.to/4aSKPnt',
+    isPrime: false,
+    isBestSeller: false,
+  },
 
   // --- CATEGORIA SPORT ---
   {
